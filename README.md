@@ -2,9 +2,9 @@
 
 ## Actualmente estudiante de 7mo año en la escuela ProA Técnica San Fco :computer:
 
-## <center> :note: Información personal
+## <center> Información personal 📓:
 
-## **Contactos**          :cellphone:            
+## **Contactos**          📱:            
 ### Gmails: Institucional 
 * <mlnarbona@escuelasproa.edu.ar>
 ### Personales 
@@ -35,7 +35,7 @@ Organización de tareas.
 Comunicación y oralidad. 
 * A nivel escolar tuve la opotunidad de defender un proyecto Institucional, el cualera un Compilador Academico de Desarrollo de programación básica. 
 
-## Idiomas :british flag:
+## Idiomas 🗺️:
 El español es mi idioma nativo. 
 Tambien sé cominucarme, escribir, leer y poder mantener chalras fuidas en ingles sobre variados temas, como tambien tengo conocimiento de ingles técnico en programación. 
 
